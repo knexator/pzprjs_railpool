@@ -47,6 +47,7 @@
     "bdwInvalidUp.bdwalk": "The line goes up at a downward elevator.",
     "bdwMismatch.bdwalk": "The line goes through different numbers without switching floors.",
     "bdwSkipElevator.bdwalk": "The line doesn't change floors at an elevator.",
+    "bdwTopFloor.bdwalk": "The line goes above the top floor.",
     "bkArafEqual.araf": "面積が数字と一致しています。",
     "bkArafTooBig.araf": "面積が大きすぎるブロックがあります。",
     "bkArafTooSmall.araf": "面積が小さすぎるブロックがあります。",

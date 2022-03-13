@@ -105,6 +105,9 @@
 				case "tren":
 					idname = "tren_new";
 					break;
+				case "bdwalk":
+					idname = "bdwalk_height";
+					break;
 			}
 			if (!!idname) {
 				this.set(idname, ui.puzzle.getConfig(idname));
