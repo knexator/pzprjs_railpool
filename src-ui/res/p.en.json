@@ -168,6 +168,7 @@
     "country_empty": "Areas don't have to be visited",
     "voxas_tatami": "Tatami rules (no 4-way intersections)",
     "tren_new": "All unused cells must be connected",
+    "bdwalk_height": "Maximum height is unknown",
     "variant": "This puzzle uses variant rules",
     "time": "Time:",
     "check": "Check",
